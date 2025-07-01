@@ -28,9 +28,9 @@ Purtroppo del primo anno ho preso principalmente appunti cartacei quindi c'è so
 |:--------------------------:|:-------------------------------:|:----------------:|
 | [Algebra](../../raw/main/Appunti/Secondo%20Anno/Algebra.pdf) | ancora non iniziato | - |
 | [Base di Dati 1](../../raw/main/Appunti/Secondo%20Anno/Base%20di%20Dati.pdf) | Pochi appunti | 2023/24 |
-| [Calcolo di Probabilità](../../raw/main/Appunti/Secondo%20Anno/Calcolo%20di%20Probabilita.pdf) | Appunti | 2024/25 |
-| [Sistemi Operativi 1](../../raw/main/Appunti/Secondo%20Anno/Sistemi%20Operativi.pdf) | Appunti e riassunto | 2024/25 |
+| [Calcolo di Probabilità](../../raw/main/Appunti/Secondo%20Anno/Calcolo%20di%20Probabilita.pdf) | Appunti e Riassunto | 2024/25 |
+| [Sistemi Operativi 1](../../raw/main/Appunti/Secondo%20Anno/Sistemi%20Operativi.pdf) | Appunti | 2024/25 |
 | [Base di Dati 2](../../raw/main/Appunti/Secondo%20Anno/Base%20di%20Dati%202.pdf) | Pochi appunti - In corso | - |
-| [Progettazione di Algoritmi](../../raw/main/Appunti/Secondo%20Anno/Progettazione%20Algoritmi.pdf) | Appunti e riassunto | 2024/25 |
-| [Reti ed Elaboratori](../../raw/main/Appunti/Secondo%20Anno/Reti%20ed%20Elaboratori.pdf) | Appunti e riassunto | 2024/25 |
+| [Progettazione di Algoritmi](../../raw/main/Appunti/Secondo%20Anno/Progettazione%20Algoritmi.pdf) | Appunti e Riassunto | 2024/25 |
+| [Reti ed Elaboratori](../../raw/main/Appunti/Secondo%20Anno/Reti%20ed%20Elaboratori.pdf) | Appunti e Riassunto | 2024/25 |
 | [Sistemi Operativi 2](../../raw/main/Appunti/Secondo%20Anno/Sistemi%20Operativi%202.pdf) | ancora non iniziato | - |
