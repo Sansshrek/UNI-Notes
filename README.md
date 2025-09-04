@@ -20,19 +20,24 @@ Inoltre inserisco il link al drive alle risorse (slide, esercizi, vecchi esami e
 Purtroppo del primo anno ho preso principalmente appunti cartacei quindi c'è solo Introduzione di Algoritmi.
 | Corso                        | Stato               | Anno slide prof  |
 |:----------------------------:|:-------------------:|:----------------:|
-[//] # (| [Introduzione di Algoritmi](../../raw/main/Appunti/Primo%20Anno/introduzione%20algoritmi.pdf) | Appunti e Riassunto | 2024/25          |)
 | [Introduzione di Algoritmi](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Primo%20Anno/introduzione%20algoritmi.pdf) | Appunti e Riassunto | 2024/25          |
-
 
 ### [Secondo Anno](../../tree/main/Appunti/Secondo%20Anno)
 
 | Corso                      | Stato                           | Anno slide prof  |
 |:--------------------------:|:-------------------------------:|:----------------:|
-| [Algebra](../../raw/main/Appunti/Secondo%20Anno/Algebra.pdf) | ancora non iniziato | - |
-| [Base di Dati 1](../../raw/main/Appunti/Secondo%20Anno/Base%20di%20Dati.pdf) | Pochi appunti | 2023/24 |
-| [Calcolo di Probabilità](../../raw/main/Appunti/Secondo%20Anno/Calcolo%20di%20Probabilita.pdf) | Appunti e Riassunto | 2024/25 |
-| [Sistemi Operativi 1](../../raw/main/Appunti/Secondo%20Anno/Sistemi%20Operativi.pdf) | Appunti | 2024/25 |
-| [Base di Dati 2](../../raw/main/Appunti/Secondo%20Anno/Base%20di%20Dati%202.pdf) | Pochi appunti - In corso | - |
-| [Progettazione di Algoritmi](../../raw/main/Appunti/Secondo%20Anno/Progettazione%20Algoritmi.pdf) | Appunti e Riassunto | 2024/25 |
-| [Reti ed Elaboratori](../../raw/main/Appunti/Secondo%20Anno/Reti%20ed%20Elaboratori.pdf) | Appunti e Riassunto | 2024/25 |
-| [Sistemi Operativi 2](../../raw/main/Appunti/Secondo%20Anno/Sistemi%20Operativi%202.pdf) | ancora non iniziato | - |
+| [Algebra](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Secondo%20Anno/Algebra.pdf) | ancora non iniziato | - |
+| [Base di Dati 1](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Secondo%20Anno/Base%20di%20Dati.pdf) | Pochi appunti | 2023/24 |
+| [Calcolo di Probabilità](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Secondo%20Anno/Calcolo%20di%20Probabilita.pdf) | Appunti e Riassunto | 2024/25 |
+| [Sistemi Operativi 1](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Secondo%20Anno/Sistemi%20Operativi.pdf) | Appunti | 2024/25 |
+| [Base di Dati 2](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Secondo%20Anno/Base%20di%20Dati%202.pdf) | Pochi appunti - In corso | - |
+| [Progettazione di Algoritmi](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Secondo%20Anno/Progettazione%20Algoritmi.pdf) | Appunti e Riassunto | 2024/25 |
+| [Reti ed Elaboratori](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Secondo%20Anno/Reti%20ed%20Elaboratori.pdf) | Appunti e Riassunto | 2024/25 |
+| [Sistemi Operativi 2](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Secondo%20Anno/Sistemi%20Operativi%202.pdf) | ancora non iniziato | - |
+
+
+
+
+
+
+
