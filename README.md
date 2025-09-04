@@ -10,7 +10,7 @@ Non sono perfetti e spesso sono molto sintetici ma comunque buoni per il ripasso
 
 ## Risorse
 Inoltre inserisco il link al drive alle risorse (slide, esercizi, vecchi esami e altro) che ho trovato online dei vari corsi:  
-🔗 [Risorse su Google Drive](https://drive.google.com/drive/folders/1jcty4h4t1JjnH_KPho8lJtaQ4NZ-gmfF?usp=drive_link)
+🔗 [Risorse su Google Drive](https://drive.google.com/drive/folders/1Dw0JG8HwNrrZgGaI4FR30KtBHICxp8PO?usp=sharing)
 
 ---
 
@@ -20,7 +20,9 @@ Inoltre inserisco il link al drive alle risorse (slide, esercizi, vecchi esami e
 Purtroppo del primo anno ho preso principalmente appunti cartacei quindi c'è solo Introduzione di Algoritmi.
 | Corso                        | Stato               | Anno slide prof  |
 |:----------------------------:|:-------------------:|:----------------:|
-| [Introduzione di Algoritmi](../../raw/main/Appunti/Primo%20Anno/introduzione%20algoritmi.pdf) | Appunti e Riassunto | 2024/25          |
+[//] # (| [Introduzione di Algoritmi](../../raw/main/Appunti/Primo%20Anno/introduzione%20algoritmi.pdf) | Appunti e Riassunto | 2024/25          |)
+| [Introduzione di Algoritmi](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Primo%20Anno/introduzione%20algoritmi.pdf) | Appunti e Riassunto | 2024/25          |
+
 
 ### [Secondo Anno](../../tree/main/Appunti/Secondo%20Anno)
 
