@@ -42,5 +42,6 @@ Purtroppo del primo anno ho preso principalmente appunti cartacei quindi c'è so
 |:--------------------------:|:-------------------------------:|:----------------:|
 | [Automi](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Terzo%20Anno/Automi.pdf) | Appunti incompleti (saltati alcuni appunti di complessita) | 2025/2026 |
 | [Programmazione Web](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Terzo%20Anno/Programmazione%20Web.pdf) | Appunti | 2025/2026 e libro |
-
+| [Data Science e Diritto](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Terzo%20Anno/Data%20Science.pdf) | Risposte alle Domande Passate dell'Orale | - |
+| [Sicurezza](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Sansshrek/UNI-Notes/main/Appunti/Terzo%20Anno/Sicurezza.pdf) | Pochi appunti - in corso | 2025/26 |
 (Per IUM ho studiato un po da CasuFrost e SimoneLid, )
